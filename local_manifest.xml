@@ -13,5 +13,5 @@
   
         <!-- sepolicy -->
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="los" revision="lineage-21" />
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="los" revision="lineage-21" />
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="merlinx" revision="lineage-21" />
 </manifest>
